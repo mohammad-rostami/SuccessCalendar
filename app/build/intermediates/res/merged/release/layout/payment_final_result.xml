@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+    style="@style/all_theme"
+              android:background="@drawable/dialog_bg_pec"
+    android:orientation="vertical">
+    <ScrollView
+            android:id="@+id/scrollView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:measureWithLargestChild="false">
+
+
+            <FrameLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:gravity="center">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:orientation="horizontal">
+
+                    <ir.pec.mpl.pecpayment.view.CheckMarkView
+                        android:id="@+id/checkmark"
+                        android:layout_gravity="center"
+                        android:visibility="invisible"
+                        android:layout_width="45dp"
+                        android:layout_height="45dp" />
+                    <ir.pec.mpl.pecpayment.view.ErrorMarkView
+                        android:id="@+id/errormark"
+                        android:layout_gravity="center"
+                        android:visibility="invisible"
+                        android:layout_width="45dp"
+                        android:layout_height="45dp" />
+
+                    <ImageView
+                        android:background="@drawable/shaparak_logo_pec"
+                        android:layout_gravity="center_horizontal|top"
+                        android:layout_marginTop="10dp"
+                        android:id="@+id/imageView"
+                        android:layout_marginRight="40dp"
+                        android:layout_height="85dp"
+                        android:scaleType="fitXY"
+                        android:layout_width="80dp" />
+
+                </LinearLayout>
+
+            </FrameLayout>
+
+            <ListView
+                android:layout_width="match_parent"
+                android:id="@+id/FinalResponceList"
+                android:divider="@android:color/transparent"
+                android:layout_height="230dp">
+            </ListView>
+
+            <RelativeLayout android:layout_width="match_parent"
+                            android:layout_height="match_parent">
+                <!--Type-->
+
+                <!--Merchant help-->
+                <TextView android:layout_width="wrap_content"
+
+                          android:layout_alignParentRight="true"
+                          android:layout_height="wrap_content"
+                          android:id="@+id/merchant_help_num_label"
+                          android:text="@string/merchant_help_num_string"
+                          android:layout_marginRight="25dp"
+                          android:layout_marginBottom="5dp"
+                    android:layout_marginTop="5dp"
+                    android:textColor="#FF202020" />
+                <TextView android:layout_width="wrap_content"
+                          android:layout_height="wrap_content"
+                          android:layout_alignParentLeft="true"
+                          android:layout_alignBottom="@id/merchant_help_num_label"
+                          android:layout_marginLeft="25dp"
+                          android:id="@+id/merchant_help_num_value"
+                          android:text="@string/merchant_service_phone"
+                    android:textColor="#FF202020" />
+
+
+
+
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_gravity="center"
+                android:gravity="center">
+
+                <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/Pec_Name_value"
+                android:text="تجارت الکترونیک پارسیان"
+                android:textSize="12sp"
+
+                android:layout_gravity="center"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                    android:layout_marginRight="5dp"
+                    android:textColor="@color/colorPrimaryDark" />
+
+                <ImageView
+                    android:src="@drawable/pecco_pec"
+                    android:layout_width="35dp"
+                    android:layout_gravity="center"
+                    android:layout_height="35dp" />
+            </LinearLayout>
+
+            <Button android:layout_width="match_parent" android:layout_height="wrap_content"
+                    android:text="@string/exit_btn"
+                    android:textSize="24sp"
+                    android:paddingBottom="7dp"
+                    android:paddingTop="7dp"
+                    android:textColor="#FFFFFF"
+            android:background="#01579B"
+                android:id="@+id/extbtt"
+                android:textStyle="normal|bold" />
+            </LinearLayout>
+        </ScrollView>
+</LinearLayout>

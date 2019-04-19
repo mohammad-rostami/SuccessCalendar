@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/toolbar_main_tb_main"
+    android:layout_width="match_parent"
+    android:layout_height="56dp"
+    android:background="@color/white"
+    android:gravity="bottom"
+    android:orientation="horizontal">
+
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_weight="0.2"
+        android:gravity="center_vertical|right">
+
+        <ImageView
+            android:id="@+id/btnNews"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:padding="16dp"
+            android:src="@mipmap/ic_news"
+            android:alpha="0.5"
+            android:tint="@color/darkGray" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_weight="0.2"
+        android:gravity="center_vertical|right">
+
+        <ImageView
+            android:id="@+id/btnCart"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:padding="16dp"
+            android:alpha="0.5"
+            android:src="@mipmap/ic_lcart"
+            android:tint="@color/darkGray" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_weight="0.2"
+        android:gravity="center_vertical|right">
+
+        <ImageView
+            android:id="@+id/btnCalendar"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:padding="16dp"
+            android:src="@mipmap/ic_calendar"
+            android:tint="@color/darkGray" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_weight="0.2"
+        android:gravity="center_vertical|right">
+
+        <ImageView
+            android:id="@+id/btnFal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:padding="16dp"
+            android:alpha="0.5"
+            android:src="@mipmap/ic_fal"
+            android:tint="@color/darkGray" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_weight="0.2"
+        android:gravity="center_vertical|right">
+
+        <ImageView
+            android:id="@+id/btnEnd"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:padding="16dp"
+            android:alpha="0.5"
+            android:src="@mipmap/ic_end"
+            android:tint="@color/darkGray" />
+    </LinearLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,22 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <android.support.v7.widget.RecyclerView xmlns:plus="http://schemas.android.com/apk/lib/com.google.android.gms.plus"
+        android:id="@+id/newsListRecycler"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textColor="@color/lightGray"
+        android:layout_gravity="center"
+        />
+    <TextView
+        android:id="@+id/list_state"
+        android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:layout_gravity="center"
+        android:text="موردی برای نمایش یافت نشد"
+        android:layout_height="wrap_content" />
+
+</FrameLayout>

@@ -1,0 +1,4 @@
+#Sat Jun 30 01:08:35 IRDT 2018
+base.0=C\:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex

@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_remove.png",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_remove.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_play.png",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_play.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_call.png",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_call.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_bookmark.png",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_bookmark.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_credit.png",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_credit.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_history.png",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_history.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_notification.png",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_calendar.png",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_calendar.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_event.png",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_event.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_more.png",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_more.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_exit.png",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_exit.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_meditation.png",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_meditation.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_date.png",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_date.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\plus.png",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\mipmap-xxhdpi\\plus.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_fal.png",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_fal.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_pause.png",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_tick.png",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_tick.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_contact_us.png",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_contact_us.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_profile.png",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_story.png",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_story.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_add.png",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_chat.png",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_chat.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_end.png",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_end.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_navigation.png",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_navigation.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_play_video.png",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_play_video.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_news.png",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_news.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_mail.png",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_mail.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_city.png",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_city.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_address.png",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_address.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_test.png",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_test.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_bin.png",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_bin.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_poll.png",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_poll.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_send.png",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_send.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_lcart.png",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_lcart.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_back.png",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_back.png"
+    }
+]

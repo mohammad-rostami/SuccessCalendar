@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/item_card"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="4dp"
+    android:layout_marginLeft="8dp"
+    android:layout_marginRight="8dp"
+    android:layout_marginTop="8dp"
+    android:background="@color/white"
+    app:cardCornerRadius="4dp"
+    app:cardElevation="2dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="vertical">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="8dp">
+
+            <TextView
+                android:id="@+id/item_date"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left|bottom"
+                android:gravity="left|center_vertical"
+                android:text="تاریخ"
+                android:textColor="@color/lightGray"
+                android:textSize="10dp" />
+
+            <TextView
+                android:id="@+id/item_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right|center_vertical"
+                android:layout_marginRight="54dp"
+                android:gravity="right|center_vertical"
+                android:padding="8dp"
+                android:text="لورم اپیسوم"
+                android:textColor="@color/Brown"
+                android:textSize="14dp" />
+
+            <RelativeLayout
+                android:layout_width="48dp"
+                android:layout_gravity="right|center_vertical"
+                android:layout_height="48dp">
+
+                <ImageView
+                    android:id="@+id/item_image"
+                    android:layout_width="48dp"
+                    android:layout_height="48dp"
+                    android:adjustViewBounds="true"
+                    android:scaleType="centerCrop"
+                    android:src="@color/Green" />
+
+                <!--<ImageView-->
+                    <!--android:id="@+id/play"-->
+                    <!--android:visibility="gone"-->
+                    <!--android:layout_width="48dp"-->
+                    <!--android:src="@mipmap/play"-->
+                    <!--android:background="#2f000000"-->
+                    <!--android:padding="8dp"-->
+                    <!--android:tint="@color/white"-->
+                    <!--android:layout_height="48dp" />-->
+
+                <!--<ImageView-->
+                    <!--android:id="@+id/music"-->
+                    <!--android:visibility="gone"-->
+                    <!--android:layout_width="48dp"-->
+                    <!--android:src="@mipmap/music"-->
+                    <!--android:background="#2f000000"-->
+                    <!--android:padding="8dp"-->
+                    <!--android:tint="@color/white"-->
+                    <!--android:layout_height="48dp" />-->
+            </RelativeLayout>
+        </FrameLayout>
+
+        <TextView
+            android:id="@+id/item_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="16dp"
+            android:text="تنمبدنمشیتنمکسشنیمکش نتسمکشن یکم سششست بنمالسی شغهازکشنیبک تشسن بتنیمسکشب  تبسشتنی سشتبنشتس بخثحهن ینشبمکتمشمسب کتنسشای مسش تیکنسشنمیکنسشمبا تشسابتشسمابنکمش"
+            android:textColor="@color/darkGray"
+            android:visibility="gone" />
+
+
+    </LinearLayout>
+</android.support.v7.widget.CardView>

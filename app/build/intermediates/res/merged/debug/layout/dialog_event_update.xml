@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="8dp"
+    android:background="@color/white"
+    android:gravity="right"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="right"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/dialog_edt_header"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:paddingLeft="18dp"
+            android:paddingRight="18dp"
+            android:gravity="center_vertical|right"
+            android:text="ویرایش رخداد"
+            android:textColor="@color/darkGray"
+            android:textSize="12dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:layout_marginBottom="16dp"
+                android:orientation="vertical">
+
+                <EditText
+                    android:id="@+id/dialog_edt_title"
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:gravity="center_vertical|right"
+                    android:hint="متن یادآوری"
+                    android:padding="16dp"
+                    android:textColor="@color/darkGray"
+                    android:textColorHint="#777777"
+                    android:textSize="14dp" />
+
+
+            </LinearLayout>
+
+
+            <TextView
+                android:id="@+id/dialog_counter1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textColor="@color/darkGray"
+                android:textSize="15dp"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/time"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:background="@color/Red"
+                android:gravity="center"
+                android:paddingTop="30dp"
+                android:enabled="false"
+                android:paddingBottom="30dp"
+                android:text="00 : 00"
+                android:textColor="@color/white"
+                android:textSize="20dp"
+                android:visibility="visible" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:layout_marginTop="20dp"
+            android:gravity="left|center_vertical"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/dialog_tv_register"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:paddingBottom="10dp"
+                android:paddingLeft="24dp"
+                android:paddingRight="24dp"
+                android:paddingTop="10dp"
+                android:text="ثبت"
+                android:textColor="@color/Red" />
+
+            <TextView
+                android:id="@+id/dialog_tv_cancel"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:paddingBottom="10dp"
+                android:paddingLeft="15dp"
+                android:paddingRight="15dp"
+                android:paddingTop="10dp"
+                android:text="انصراف"
+                android:textColor="#777777" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

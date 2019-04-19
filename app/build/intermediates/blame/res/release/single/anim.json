@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\anim\\fade_out.xml",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\c94bac9ee86b02d05e7216e82991af9bdca436fa\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\d8b6a05f366c4247ab677cf44be375226280431e\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\anim\\decrease_alpha.xml",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\anim\\decrease_alpha.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\anim\\scale_out_tv.xml",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\anim\\scale_out_tv.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\d8b6a05f366c4247ab677cf44be375226280431e\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\c94bac9ee86b02d05e7216e82991af9bdca436fa\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_tooltip_exit.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\c94bac9ee86b02d05e7216e82991af9bdca436fa\\output\\res\\anim\\abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\anim\\increase_alpha.xml",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\anim\\increase_alpha.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\c94bac9ee86b02d05e7216e82991af9bdca436fa\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\c94bac9ee86b02d05e7216e82991af9bdca436fa\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\c94bac9ee86b02d05e7216e82991af9bdca436fa\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\d8b6a05f366c4247ab677cf44be375226280431e\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\c94bac9ee86b02d05e7216e82991af9bdca436fa\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\anim\\fade_in.xml",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\d8b6a05f366c4247ab677cf44be375226280431e\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\anim\\vibrate.xml",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\anim\\vibrate.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\c94bac9ee86b02d05e7216e82991af9bdca436fa\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\c94bac9ee86b02d05e7216e82991af9bdca436fa\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\c94bac9ee86b02d05e7216e82991af9bdca436fa\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\c94bac9ee86b02d05e7216e82991af9bdca436fa\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_tooltip_enter.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\c94bac9ee86b02d05e7216e82991af9bdca436fa\\output\\res\\anim\\abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\anim\\get_in.xml",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\anim\\get_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\anim\\get_out.xml",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\anim\\get_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\anim\\wrong_field.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\anim\\wrong_field.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\anim\\scale_in_tv.xml",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\anim\\scale_in_tv.xml"
+    }
+]

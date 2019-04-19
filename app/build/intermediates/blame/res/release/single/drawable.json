@@ -1,0 +1,702 @@
+[
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bg_green_btn.xml",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\drawable\\bg_green_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bg_simple_bg.xml",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\drawable\\bg_simple_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\c94bac9ee86b02d05e7216e82991af9bdca436fa\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\circle_current_day.xml",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\persiancalendar\\build\\intermediates\\bundles\\default\\res\\drawable\\circle_current_day.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\c94bac9ee86b02d05e7216e82991af9bdca436fa\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\c94bac9ee86b02d05e7216e82991af9bdca436fa\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\rightel.jpg",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\rightel.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\69ad27192322c99f818fb9afc03ae3d0a2308311\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\c94bac9ee86b02d05e7216e82991af9bdca436fa\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\69ad27192322c99f818fb9afc03ae3d0a2308311\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cup1.png",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\drawable\\cup1.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ms__arrow.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\e1de81c7ca55af777efdefca4c9888610be73745\\output\\res\\drawable\\ms__arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\frame_build.xml",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\drawable\\frame_build.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\pecco_pec.jpg",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\pecco_pec.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bg_green_button.xml",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\drawable\\bg_green_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\round_shape_pec.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\round_shape_pec.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\border_logo_pec.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\border_logo_pec.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\69ad27192322c99f818fb9afc03ae3d0a2308311\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bg_orange_btn.xml",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\drawable\\bg_orange_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\c94bac9ee86b02d05e7216e82991af9bdca436fa\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bg_dark_round_button.xml",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\drawable\\bg_dark_round_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bg_bottom_shadow.xml",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\drawable\\bg_bottom_shadow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\logo.png",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bg_edit_text_back.xml",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\drawable\\bg_edit_text_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bg_round_button.xml",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\drawable\\bg_round_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\c94bac9ee86b02d05e7216e82991af9bdca436fa\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bill_shahrdari_pec.png",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\bill_shahrdari_pec.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bank_saman_pec.png",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\bank_saman_pec.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\69ad27192322c99f818fb9afc03ae3d0a2308311\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\c94bac9ee86b02d05e7216e82991af9bdca436fa\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\c94bac9ee86b02d05e7216e82991af9bdca436fa\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\progress_circle.xml",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\drawable\\progress_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\c94bac9ee86b02d05e7216e82991af9bdca436fa\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bill_mci_pec.png",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\bill_mci_pec.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bank_mellat_pec.png",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\bank_mellat_pec.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cup2.png",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\drawable\\cup2.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\c94bac9ee86b02d05e7216e82991af9bdca436fa\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\d75fe4cea0e748c2d1fd169af0e2c02b7581bdd8\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\default_bank_pec.png",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\default_bank_pec.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\c94bac9ee86b02d05e7216e82991af9bdca436fa\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\custom_select_background.xml",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\drawable\\custom_select_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\d8b6a05f366c4247ab677cf44be375226280431e\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bank_sanaat_o_maadan_pec.png",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\bank_sanaat_o_maadan_pec.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bank_ayande_pec.png",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\bank_ayande_pec.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bank_post_nabk_pec.png",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\bank_post_nabk_pec.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\evp_action_play.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\2b797cff91700f9e2ddc343111ae8b05e7202c30\\output\\res\\drawable\\evp_action_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tooltip_frame_dark.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\c94bac9ee86b02d05e7216e82991af9bdca436fa\\output\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bg_message_frame1.xml",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\drawable\\bg_message_frame1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\news.jpg",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\drawable\\news.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mdtp_done_background_color_dark.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\e31f5591419a258b1b09d8adc30dd409b02344c1\\output\\res\\drawable\\mdtp_done_background_color_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bank_parsian_pec.png",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\bank_parsian_pec.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bank_tejarat_pec.png",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\bank_tejarat_pec.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ms__drawable.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\e1de81c7ca55af777efdefca4c9888610be73745\\output\\res\\drawable\\ms__drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bank_saderat_pec.png",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\bank_saderat_pec.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bg_fade.xml",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\drawable\\bg_fade.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\exit_button_image_pec.png",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\exit_button_image_pec.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bank_mehr_pec.png",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\bank_mehr_pec.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\progress_circular_background.png",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\drawable\\progress_circular_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bg_fade_back.xml",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\drawable\\bg_fade_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dialog_button_bg_pec.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\dialog_button_bg_pec.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bill_telecom_pec.png",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\bill_telecom_pec.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\circle_gray.png",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\drawable\\circle_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bg_gradient.xml",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\drawable\\bg_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mdtp_material_button_selected.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\e31f5591419a258b1b09d8adc30dd409b02344c1\\output\\res\\drawable\\mdtp_material_button_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\69ad27192322c99f818fb9afc03ae3d0a2308311\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\c94bac9ee86b02d05e7216e82991af9bdca436fa\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dialogclose_pec.png",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\dialogclose_pec.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mci_logo.png",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\mci_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bank_toose_taavon_pec.png",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\bank_toose_taavon_pec.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\circle_select.xml",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\persiancalendar\\build\\intermediates\\bundles\\default\\res\\drawable\\circle_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\certificate.png",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\certificate.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bill_gaz_pec.png",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\bill_gaz_pec.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bank_sepah_pec.png",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\bank_sepah_pec.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\d8b6a05f366c4247ab677cf44be375226280431e\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\share_icon.png",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\share_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bank_tosee_saderat_pec.png",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\bank_tosee_saderat_pec.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\evp_action_pause.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\2b797cff91700f9e2ddc343111ae8b05e7202c30\\output\\res\\drawable\\evp_action_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ms__selector.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\e1de81c7ca55af777efdefca4c9888610be73745\\output\\res\\drawable\\ms__selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\d8b6a05f366c4247ab677cf44be375226280431e\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\c94bac9ee86b02d05e7216e82991af9bdca436fa\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\69ad27192322c99f818fb9afc03ae3d0a2308311\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\c94bac9ee86b02d05e7216e82991af9bdca436fa\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bank_sarmaye_pec.png",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\bank_sarmaye_pec.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bank_dey_pec.png",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\bank_dey_pec.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\69ad27192322c99f818fb9afc03ae3d0a2308311\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dialog_bg_pec.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\dialog_bg_pec.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bank_etebarie_tosee_pec.png",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\bank_etebarie_tosee_pec.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bg_image_frame.xml",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\drawable\\bg_image_frame.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bank_eghtesad_novin_pec.png",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\bank_eghtesad_novin_pec.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bank_ghavamin_pec.png",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\bank_ghavamin_pec.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\c94bac9ee86b02d05e7216e82991af9bdca436fa\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\c94bac9ee86b02d05e7216e82991af9bdca436fa\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\frame.xml",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\drawable\\frame.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\keyboard_divider_pec.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\keyboard_divider_pec.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bg_circle.xml",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\drawable\\bg_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\69ad27192322c99f818fb9afc03ae3d0a2308311\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\evp_action_restart.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\2b797cff91700f9e2ddc343111ae8b05e7202c30\\output\\res\\drawable\\evp_action_restart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bg_gray_btn.xml",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\drawable\\bg_gray_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bg_event_layout.xml",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\drawable\\bg_event_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\69ad27192322c99f818fb9afc03ae3d0a2308311\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\d75fe4cea0e748c2d1fd169af0e2c02b7581bdd8\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\69ad27192322c99f818fb9afc03ae3d0a2308311\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\d75fe4cea0e748c2d1fd169af0e2c02b7581bdd8\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bg_gray_round_button.xml",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\drawable\\bg_gray_round_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bg_menu_back.xml",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\drawable\\bg_menu_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bank_gh_mehr.png",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\bank_gh_mehr.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\circle_white.png",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\drawable\\circle_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mdtp_material_button_background.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\e31f5591419a258b1b09d8adc30dd409b02344c1\\output\\res\\drawable\\mdtp_material_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bank_refah_pec.png",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\bank_refah_pec.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\pay_button_shape_pec.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\pay_button_shape_pec.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\c94bac9ee86b02d05e7216e82991af9bdca436fa\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\wait.png",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\wait.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bg_pink_round_button.xml",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\drawable\\bg_pink_round_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\c94bac9ee86b02d05e7216e82991af9bdca436fa\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\exit_shape_pec.png",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\exit_shape_pec.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mtn.jpg",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\mtn.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bank_hekmat_pec.png",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\bank_hekmat_pec.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\c94bac9ee86b02d05e7216e82991af9bdca436fa\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bank_keshavarzi_pec.png",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\bank_keshavarzi_pec.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\c94bac9ee86b02d05e7216e82991af9bdca436fa\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bg_round_button_orange.xml",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\drawable\\bg_round_button_orange.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mtn_logo.png",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\mtn_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\69ad27192322c99f818fb9afc03ae3d0a2308311\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\d75fe4cea0e748c2d1fd169af0e2c02b7581bdd8\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mdtp_done_background_color.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\e31f5591419a258b1b09d8adc30dd409b02344c1\\output\\res\\drawable\\mdtp_done_background_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bank_pasargad_pec.png",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\bank_pasargad_pec.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\buy_tag_pec.png",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\buy_tag_pec.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\c94bac9ee86b02d05e7216e82991af9bdca436fa\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bg_code_back.xml",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\drawable\\bg_code_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\c94bac9ee86b02d05e7216e82991af9bdca436fa\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bill_water_pec.png",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\bill_water_pec.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\69ad27192322c99f818fb9afc03ae3d0a2308311\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bg_orange_round_button.xml",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\drawable\\bg_orange_round_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tooltip_frame_light.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\c94bac9ee86b02d05e7216e82991af9bdca436fa\\output\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\c94bac9ee86b02d05e7216e82991af9bdca436fa\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\c94bac9ee86b02d05e7216e82991af9bdca436fa\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bank_iran_zamin_pec.png",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\bank_iran_zamin_pec.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\progress_particle.png",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\drawable\\progress_particle.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\red.xml",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\drawable\\red.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bank_karafarin_pec.png",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\bank_karafarin_pec.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bank_shahr_pec.png",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\bank_shahr_pec.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\parsianlogo_pec.png",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\parsianlogo_pec.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bill_jarime_pec.png",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\bill_jarime_pec.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bank_tat_pec.png",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\bank_tat_pec.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bill_elc_pec.png",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\bill_elc_pec.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bank_sina_pec.png",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\bank_sina_pec.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bank_gardeshgari_pec.png",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\bank_gardeshgari_pec.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bg_et_button.xml",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\drawable\\bg_et_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\d8b6a05f366c4247ab677cf44be375226280431e\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bank_ansar_pec.png",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\bank_ansar_pec.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\69ad27192322c99f818fb9afc03ae3d0a2308311\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\c94bac9ee86b02d05e7216e82991af9bdca436fa\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\d8b6a05f366c4247ab677cf44be375226280431e\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\c94bac9ee86b02d05e7216e82991af9bdca436fa\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\c94bac9ee86b02d05e7216e82991af9bdca436fa\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bank_maskan_pec.png",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\bank_maskan_pec.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bg_white_round_button.xml",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\drawable\\bg_white_round_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\place_holder.jpg",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\drawable\\place_holder.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bg_city_back.xml",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\drawable\\bg_city_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\c94bac9ee86b02d05e7216e82991af9bdca436fa\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\c94bac9ee86b02d05e7216e82991af9bdca436fa\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bg_message_frame2.xml",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\drawable\\bg_message_frame2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\c94bac9ee86b02d05e7216e82991af9bdca436fa\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mci.jpg",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\mci.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\rightel_logo.png",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\rightel_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bg_button_frame.xml",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\drawable\\bg_button_frame.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\c94bac9ee86b02d05e7216e82991af9bdca436fa\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\keyboard_button_bg_pec.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\keyboard_button_bg_pec.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\69ad27192322c99f818fb9afc03ae3d0a2308311\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bg_gradient_disabled.xml",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\drawable\\bg_gradient_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bg_service.xml",
+        "source": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\drawable\\bg_service.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bank_meli_iran_pec.png",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\422c04fb834b25a41183ec1f54b44714a302b74f\\output\\res\\drawable\\bank_meli_iran_pec.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\c94bac9ee86b02d05e7216e82991af9bdca436fa\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\c94bac9ee86b02d05e7216e82991af9bdca436fa\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammad\\Desktop\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Mohammad\\.android\\build-cache\\c94bac9ee86b02d05e7216e82991af9bdca436fa\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    }
+]

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mohammad\Desktop\persian-calendar-view-master 2\persian-calendar-view-master 2\persiancalendar\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="3fa7e02bc870f44845e1e44a9883b04c1caf63b6">
+        <dex dex="C:\Users\Mohammad\Desktop\persian-calendar-view-master 2\persian-calendar-view-master 2\app\build\intermediates\pre-dexed\debug\classes_a5e753b5f7e4a02df642431d236f37c56053bd26.jar" />
+    </item>
+
+</items>

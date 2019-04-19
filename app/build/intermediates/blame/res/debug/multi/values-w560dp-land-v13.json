@@ -1,0 +1,126 @@
+[
+    {
+        "outputFile": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w560dp-land-v13\\values-w560dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 64,
+                    "endOffset": 115
+                },
+                "from": {
+                    "file": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\9e1083d338e52b3ad470208c6942a887e72c6529\\output\\res\\values-w560dp-land-v13\\values-w560dp-land-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 64,
+                        "endOffset": 115
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 120,
+                    "endColumn": 53,
+                    "endOffset": 169
+                },
+                "from": {
+                    "file": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\9e1083d338e52b3ad470208c6942a887e72c6529\\output\\res\\values-w560dp-land-v13\\values-w560dp-land-v13.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 120,
+                        "endColumn": 53,
+                        "endOffset": 169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 174,
+                    "endColumn": 50,
+                    "endOffset": 220
+                },
+                "from": {
+                    "file": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\9e1083d338e52b3ad470208c6942a887e72c6529\\output\\res\\values-w560dp-land-v13\\values-w560dp-land-v13.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 174,
+                        "endColumn": 50,
+                        "endOffset": 220
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w560dp-land-v13\\values-w560dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 64,
+                    "endOffset": 115
+                },
+                "from": {
+                    "file": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\9e1083d338e52b3ad470208c6942a887e72c6529\\output\\res\\values-w560dp-land-v13\\values-w560dp-land-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 64,
+                        "endOffset": 115
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 120,
+                    "endColumn": 53,
+                    "endOffset": 169
+                },
+                "from": {
+                    "file": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\9e1083d338e52b3ad470208c6942a887e72c6529\\output\\res\\values-w560dp-land-v13\\values-w560dp-land-v13.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 120,
+                        "endColumn": 53,
+                        "endOffset": 169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 174,
+                    "endColumn": 50,
+                    "endOffset": 220
+                },
+                "from": {
+                    "file": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\9e1083d338e52b3ad470208c6942a887e72c6529\\output\\res\\values-w560dp-land-v13\\values-w560dp-land-v13.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 174,
+                        "endColumn": 50,
+                        "endOffset": 220
+                    }
+                }
+            }
+        ]
+    }
+]

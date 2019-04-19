@@ -1,0 +1,440 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:fitsSystemWindows="true"
+    android:gravity="top|right"
+    android:orientation="vertical">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/fragment_data_rv_table"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:fitsSystemWindows="true"
+        android:gravity="top|right"
+        android:orientation="vertical">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="130dp"
+            android:background="@color/Red"
+            android:gravity="right|center_vertical"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_gravity="left|center_vertical"
+                android:padding="30dp"
+                android:text="علی حسینی"
+                android:textColor="@color/white"
+                android:textSize="15dp" />
+
+        </FrameLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:gravity="center_vertical|right"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:id="@+id/fragment_nav_item_order"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="0.5"
+                android:gravity="center_vertical|right"
+                android:paddingRight="16dp"
+                android:textColor="@color/colorPrimary"
+                android:textSize="14sp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:paddingRight="16dp"
+                    android:text="خرید ها"
+                    android:textColor="@color/darkGray"
+                    android:textSize="14sp" />
+
+                <ImageView
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:gravity="center"
+                    android:src="@mipmap/ic_lcart"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="14sp"
+                    android:tint="@color/lightGray" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="1dp"
+                android:layout_height="match_parent"
+                android:background="#999999" />
+
+            <LinearLayout
+                android:id="@+id/fragment_nav_item_credit"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="0.5"
+                android:gravity="center_vertical|right"
+                android:paddingRight="16dp"
+                android:textColor="@color/colorPrimary"
+                android:textSize="14sp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:paddingRight="16dp"
+                    android:text="اعتبار"
+                    android:textColor="@color/darkGray"
+                    android:textSize="14sp" />
+
+                <ImageView
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:gravity="center"
+                    android:src="@mipmap/ic_credit"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="14sp"
+                    android:tint="@color/lightGray" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#999999" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:gravity="center_vertical|right"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:id="@+id/fragment_nav_item_messages"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="0.5"
+                android:gravity="center_vertical|right"
+                android:paddingRight="16dp"
+                android:textColor="@color/colorPrimary"
+                android:textSize="14sp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:paddingRight="16dp"
+                    android:text="گفتگو"
+                    android:textColor="@color/darkGray"
+                    android:textSize="14sp" />
+
+                <ImageView
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:gravity="center"
+                    android:src="@mipmap/ic_mail"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="14sp"
+                    android:tint="@color/lightGray" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="1dp"
+                android:layout_height="match_parent"
+                android:background="#999999" />
+
+            <LinearLayout
+                android:id="@+id/fragment_nav_item_poll"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="0.5"
+                android:gravity="center_vertical|right"
+                android:paddingRight="16dp"
+                android:textColor="@color/colorPrimary"
+                android:textSize="14sp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:paddingRight="16dp"
+                    android:text="نظر سنجی"
+                    android:textColor="@color/darkGray"
+                    android:textSize="14sp" />
+
+                <ImageView
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:gravity="center"
+                    android:src="@mipmap/ic_poll"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="14sp"
+                    android:tint="@color/lightGray" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#999999" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#999999" />
+
+        <LinearLayout
+            android:id="@+id/fragment_nav_item_history"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:alpha="0.4"
+            android:gravity="center_vertical|right"
+            android:orientation="horizontal"
+            android:visibility="gone">
+
+            <TextView
+                android:id="@+id/fragment_nav_txt_history"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:paddingRight="16dp"
+                android:text="مطالب موفقیت"
+                android:textColor="@color/darkGray"
+                android:textSize="14sp" />
+
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:layout_marginRight="16dp"
+                android:src="@mipmap/ic_chat"
+                android:tint="@color/lightGray" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/fragment_nav_item_success_message"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:gravity="center_vertical|right"
+            android:orientation="horizontal"
+            android:visibility="visible">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:paddingRight="16dp"
+                android:text="پیام موفقیت"
+                android:textColor="@color/darkGray"
+                android:textSize="14sp" />
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:layout_marginRight="16dp"
+                android:src="@mipmap/ic_meditation"
+                android:tint="@color/lightGray" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/fragment_nav_item_contact_us"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:gravity="center_vertical|right"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/fragment_nav_txt_agency"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:paddingRight="16dp"
+                android:text="ارتباط با ما"
+                android:textColor="@color/darkGray"
+                android:textSize="14sp" />
+
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:layout_marginRight="16dp"
+                android:src="@mipmap/ic_contact_us"
+                android:tint="@color/lightGray" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/fragment_nav_ll_item_profile"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:gravity="center_vertical|right"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/fragment_nav_item_contact"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:paddingRight="16dp"
+                android:text="پروفایل"
+                android:textColor="@color/darkGray"
+                android:textSize="14sp" />
+
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:layout_marginRight="16dp"
+                android:src="@mipmap/ic_profile"
+                android:tint="@color/lightGray" />
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/fragment_nav_item_test"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:gravity="center_vertical|right"
+            android:orientation="horizontal"
+            android:visibility="visible">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:paddingRight="16dp"
+                android:text="تست روانشناسی و کوکولوژی"
+                android:textColor="@color/darkGray"
+                android:textSize="14sp" />
+
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:layout_marginRight="16dp"
+                android:src="@mipmap/ic_test"
+                android:tint="@color/lightGray" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/fragment_nav_item_meditation"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:gravity="center_vertical|right"
+            android:orientation="horizontal"
+            android:visibility="visible">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:paddingRight="16dp"
+                android:text="مدیتیشن و مراقبه"
+                android:textColor="@color/darkGray"
+                android:textSize="14sp" />
+
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:layout_marginRight="16dp"
+                android:src="@mipmap/ic_meditation"
+                android:tint="@color/lightGray" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/fragment_nav_item_story"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:gravity="center_vertical|right"
+            android:orientation="horizontal"
+            android:visibility="visible">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:paddingRight="16dp"
+                android:text=" مطالب هفته "
+                android:textColor="@color/darkGray"
+                android:textSize="14sp" />
+
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:layout_marginRight="16dp"
+                android:src="@mipmap/ic_story"
+                android:tint="@color/lightGray" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:gravity="center_vertical|right"
+            android:orientation="horizontal"
+            android:visibility="visible">
+
+            <Switch
+                android:id="@+id/notification_switch"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:paddingRight="16dp"
+                android:text="نمایش در نوار اعلان"
+                android:textColor="@color/darkGray"
+                android:textSize="14sp" />
+
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:layout_marginRight="16dp"
+                android:src="@mipmap/ic_notification"
+                android:tint="@color/lightGray" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/fragment_nav_item_exit"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:gravity="center_vertical|right"
+            android:orientation="horizontal"
+            android:visibility="gone">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:paddingRight="16dp"
+                android:text="خروج"
+                android:textColor="@color/darkGray"
+                android:textSize="14sp" />
+
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:layout_marginRight="16dp"
+                android:src="@mipmap/ic_exit"
+                android:tint="@color/lightGray" />
+
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_gradient"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="46dp"
+                android:layout_marginBottom="56dp"
+                android:src="@drawable/logo"
+                android:tint="@color/white" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                android:text="هشدار یادآوری"
+                android:textColor="@color/white"
+                android:textSize="10dp" />
+
+            <TextView
+                android:id="@+id/eventName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="36dp"
+                android:text="TEST"
+                android:textColor="@color/white"
+                android:textSize="14dp" />
+
+            <com.wang.avi.AVLoadingIndicatorView
+                android:layout_width="48dp"
+                android:layout_height="48dp"
+                android:rotation="90" />
+
+            <TextView
+                android:id="@+id/stop"
+                android:layout_width="match_parent"
+                android:layout_height="46dp"
+                android:layout_margin="36dp"
+                android:alpha="0.8"
+                android:background="@drawable/bg_city_back"
+                android:gravity="center"
+                android:text="متوجه شدم"
+                android:textColor="@color/black"
+                android:textSize="12dp" />
+
+        </LinearLayout>
+
+
+    </ScrollView>
+</LinearLayout>

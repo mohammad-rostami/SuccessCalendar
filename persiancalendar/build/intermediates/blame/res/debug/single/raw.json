@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\persiancalendar\\build\\intermediates\\res\\merged\\debug\\raw\\events.json",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\persiancalendar\\src\\main\\res\\raw\\events.json"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\persiancalendar\\build\\intermediates\\res\\merged\\debug\\raw\\consumer_onesignal_keep.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\7d1c976abb531a77bdafdeeee36de0f45b0b8b40\\output\\res\\raw\\consumer_onesignal_keep.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\persiancalendar\\build\\intermediates\\res\\merged\\debug\\raw\\consumer_onesignal_keep.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\7d1c976abb531a77bdafdeeee36de0f45b0b8b40\\output\\res\\raw\\consumer_onesignal_keep.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\persiancalendar\\build\\intermediates\\res\\merged\\debug\\raw\\events.json",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\persiancalendar\\src\\main\\res\\raw\\events.json"
+    }
+]

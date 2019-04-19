@@ -1,0 +1,367 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    style="@style/all_theme"
+    android:padding="5dp">
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="22dp"
+    android:layout_marginRight="22dp"
+    android:orientation="horizontal"
+    android:background="@color/md_grey_200">
+
+    <EditText
+        android:id="@+id/password_field"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:ems="10"
+        android:inputType="none"
+        android:textColorHint="@color/md_grey_700"
+        android:editable="false"
+        android:padding="7dp"
+        android:background="@color/md_grey_200"
+        android:gravity="center"
+        android:hint="@string/second_pass"
+        android:layout_gravity="left|top"
+        android:textSize="16dp"
+        android:textStyle="bold"
+        android:password="true"
+        android:enabled="true"
+        android:clickable="true"
+        android:paddingLeft="8dp"
+        android:paddingRight="8dp"
+        android:singleLine="true"
+        android:textColor="#5e5e5e" />
+
+</LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="22dp"
+        android:layout_marginRight="22dp"
+        android:layout_marginTop="5dp"
+        android:id="@+id/content"
+        android:layout_gravity="center"
+        android:orientation="horizontal"
+        android:background="@color/md_white_1000">
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="left"
+        android:background="@color/md_white_1000">
+
+    <EditText
+        android:id="@+id/year_field"
+        android:layout_width="54dp"
+        android:layout_height="35dp"
+        android:ems="10"
+        android:inputType="none"
+        android:editable="false"
+        android:maxLength="2"
+        android:padding="7dp"
+        android:background="@color/md_grey_200"
+        android:gravity="center"
+        android:hint="@string/year"
+        android:layout_gravity="left|top"
+        android:textSize="16dp"
+        android:textColorHint="@color/md_grey_700"
+        android:textStyle="bold"
+        android:enabled="true"
+        android:clickable="true"
+        android:layout_marginRight="5dp"
+        android:paddingLeft="8dp"
+        android:paddingRight="8dp"
+        android:singleLine="true"
+        android:textColor="#5e5e5e" />
+
+
+    <TextView
+        android:id="@+id/seprator"
+        android:layout_width="20dp"
+        android:layout_height="35dp"
+        android:ems="10"
+        android:background="@color/md_white_1000"
+        android:gravity="center"
+        android:hint="@string/month"
+        android:layout_gravity="right|top"
+        android:textSize="16dp"
+        android:textStyle="bold"
+        android:text="/"
+        android:layout_marginRight="5dp"
+
+        android:singleLine="true"
+        android:textColor="#5e5e5e" />
+
+    <EditText
+        android:id="@+id/month_field"
+        android:layout_width="50dp"
+        android:layout_height="35dp"
+        android:maxLength="2"
+        android:ems="10"
+        android:inputType="none"
+        android:editable="false"
+        android:textColorHint="@color/md_grey_700"
+        android:padding="7dp"
+        android:background="@color/md_grey_200"
+        android:gravity="center"
+        android:hint="@string/month"
+        android:layout_gravity="right|top"
+        android:textSize="16dp"
+        android:textStyle="bold"
+        android:enabled="true"
+        android:clickable="true"
+        android:layout_marginRight="5dp"
+        android:paddingLeft="8dp"
+        android:paddingRight="8dp"
+        android:singleLine="true"
+        android:textColor="#5e5e5e" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+
+            android:background="@color/md_white_1000">
+
+
+            <EditText
+                android:id="@+id/cvv2_field"
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:ems="10"
+                android:inputType="none"
+                android:editable="false"
+                android:padding="7dp"
+                android:background="@color/md_grey_200"
+                android:gravity="center"
+                android:hint="@string/cvv2"
+                android:layout_gravity="right|top"
+                android:textSize="16dp"
+                android:maxLength="6"
+                android:textStyle="bold"
+                android:password="true"
+                android:enabled="true"
+                android:clickable="true"
+                android:paddingLeft="8dp"
+                android:textColorHint="@color/md_grey_700"
+                android:singleLine="true"
+                android:textColor="#5e5e5e" />
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+    <TableLayout
+        android:id="@+id/keyboard"
+        android:layout_marginLeft="22dp"
+        android:layout_marginRight="22dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/white"
+        android:divider="@drawable/keyboard_divider_pec"
+        android:orientation="vertical"
+        android:showDividers="beginning|middle|end">
+
+        <TableRow
+            android:layout_width = "match_parent"
+            android:layout_height = "wrap_content"
+            android:divider = "@drawable/keyboard_divider_pec"
+            android:gravity = "center"
+            android:showDividers = "beginning|middle|end" >
+
+            <TextView
+                android:id="@+id/t9_key_1"
+                android:layout_width = "0dp"
+                android:layout_height = "match_parent"
+                android:layout_weight = "1"
+                android:paddingTop = "12dp"
+                android:paddingBottom = "12dp"
+                android:clickable = "true"
+                android:gravity = "center"
+                android:scaleType = "centerInside"
+                android:background = "@drawable/keyboard_button_bg_pec"
+                android:textSize="21dp"
+                android:textColor="#000000"
+                android:text="@string/number_one"/>
+
+            <TextView
+                android:id="@+id/t9_key_2"
+                android:layout_width = "0dp"
+                android:layout_height = "match_parent"
+                android:layout_weight = "1"
+                android:paddingTop = "12dp"
+                android:paddingBottom = "12dp"
+                android:clickable = "true"
+                android:gravity = "center"
+                android:scaleType = "centerInside"
+                android:background = "@drawable/keyboard_button_bg_pec"
+                android:textSize="21dp"
+                android:textColor="#000000"
+                android:text="@string/number_two"/>
+
+            <TextView
+                android:id="@+id/t9_key_3"
+                android:layout_width = "0dp"
+                android:layout_height = "match_parent"
+                android:layout_weight = "1"
+                android:paddingTop = "12dp"
+                android:paddingBottom = "12dp"
+                android:clickable = "true"
+                android:gravity = "center"
+                android:scaleType = "centerInside"
+                android:background = "@drawable/keyboard_button_bg_pec"
+                android:textSize="21dp"
+                android:textColor="#000000"
+                android:text="@string/number_three"/>
+        </TableRow>
+
+        <TableRow style="@style/keyboard_row">
+
+            <TextView
+                android:id="@+id/t9_key_4"
+                android:layout_width = "0dp"
+                android:layout_height = "match_parent"
+                android:layout_weight = "1"
+                android:paddingTop = "12dp"
+                android:paddingBottom = "12dp"
+                android:clickable = "true"
+                android:gravity = "center"
+                android:scaleType = "centerInside"
+                android:background = "@drawable/keyboard_button_bg_pec"
+                android:textSize="21dp"
+                android:textColor="#000000"
+                android:text="@string/number_four"/>
+
+            <TextView
+                android:id="@+id/t9_key_5"
+                android:layout_width = "0dp"
+                android:layout_height = "match_parent"
+                android:layout_weight = "1"
+                android:paddingTop = "12dp"
+                android:paddingBottom = "12dp"
+                android:clickable = "true"
+                android:gravity = "center"
+                android:scaleType = "centerInside"
+                android:background = "@drawable/keyboard_button_bg_pec"
+                android:textSize="21dp"
+                android:textColor="#000000"
+                android:text="@string/number_five"/>
+
+            <TextView
+                android:id="@+id/t9_key_6"
+                android:layout_width = "0dp"
+                android:layout_height = "match_parent"
+                android:layout_weight = "1"
+                android:paddingTop = "12dp"
+                android:paddingBottom = "12dp"
+                android:clickable = "true"
+                android:gravity = "center"
+                android:scaleType = "centerInside"
+                android:background = "@drawable/keyboard_button_bg_pec"
+                android:textSize="21dp"
+                android:textColor="#000000"
+                android:text="@string/number_six"/>
+        </TableRow>
+
+        <TableRow style="@style/keyboard_row">
+
+            <TextView
+                android:id="@+id/t9_key_7"
+                android:layout_width = "0dp"
+                android:layout_height = "match_parent"
+                android:layout_weight = "1"
+                android:paddingTop = "12dp"
+                android:paddingBottom = "12dp"
+                android:clickable = "true"
+                android:gravity = "center"
+                android:scaleType = "centerInside"
+                android:background = "@drawable/keyboard_button_bg_pec"
+                android:textSize="21dp"
+                android:textColor="#000000"
+                android:text="@string/number_seven"/>
+
+            <TextView
+                android:id="@+id/t9_key_8"
+                android:layout_width = "0dp"
+                android:layout_height = "match_parent"
+                android:layout_weight = "1"
+                android:paddingTop = "12dp"
+                android:paddingBottom = "12dp"
+                android:clickable = "true"
+                android:gravity = "center"
+                android:scaleType = "centerInside"
+                android:background = "@drawable/keyboard_button_bg_pec"
+                android:textSize="21dp"
+                android:textColor="#000000"
+                android:text="@string/number_eight"/>
+
+            <TextView
+                android:id="@+id/t9_key_9"
+                android:layout_width = "0dp"
+                android:layout_height = "match_parent"
+                android:layout_weight = "1"
+                android:paddingTop = "12dp"
+                android:paddingBottom = "12dp"
+                android:clickable = "true"
+                android:gravity = "center"
+                android:scaleType = "centerInside"
+                android:background = "@drawable/keyboard_button_bg_pec"
+                android:textSize="21dp"
+                android:textColor="#000000"
+                android:text="@string/number_nine"/>
+        </TableRow>
+
+        <TableRow style="@style/keyboard_row">
+
+            <ImageView
+                android:id="@+id/t9_key_clear"
+                android:layout_width = "0dp"
+                android:layout_height = "match_parent"
+                android:layout_weight = "1"
+                android:paddingTop = "12dp"
+                android:paddingBottom = "12dp"
+                android:clickable = "true"
+                android:gravity = "center"
+                android:scaleType = "centerInside"
+                android:background = "@drawable/keyboard_button_bg_pec"
+                android:src="@drawable/ic_refresh_pec"
+
+
+                />
+
+            <TextView
+                android:id="@+id/t9_key_0"
+                style="@style/keyboard_number_button"
+                android:textSize="21dp"
+                android:textColor="#000000"
+                android:text="@string/number_zero"/>
+
+            <ImageView
+
+                android:id="@+id/t9_key_backspace"
+                android:src="@drawable/ic_backspace_pec"
+
+                android:layout_width = "0dp"
+                android:layout_height = "match_parent"
+                android:layout_weight = "1"
+                android:paddingTop = "12dp"
+                android:paddingBottom = "12dp"
+                android:clickable = "true"
+                android:gravity = "center"
+                android:scaleType = "centerInside"
+                android:background = "@drawable/keyboard_button_bg_pec"
+               />
+        </TableRow>
+    </TableLayout>
+</LinearLayout>

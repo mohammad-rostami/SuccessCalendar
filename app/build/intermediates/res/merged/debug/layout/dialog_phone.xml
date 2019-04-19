@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:gravity="right"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:gravity="right"
+        android:orientation="vertical"
+        android:paddingBottom="20dp"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:paddingTop="20dp">
+
+        <TextView
+            android:id="@+id/dialog_txt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="لطفا شماره تلفن و کد عضویت خود را وارد کنید"
+            android:textColor="@color/darkGray"
+            android:textSize="13dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="25dp"
+                android:gravity="left"
+                android:background="@drawable/bg_code_back"
+                android:orientation="vertical">
+
+                <EditText
+                    android:id="@+id/dialog_edt_txt"
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:background="@null"
+                    android:padding="8dp"
+                    android:hint="شماره موبایل ۱۱ رقمی"
+                    android:inputType="number"
+                    android:maxLength="11"
+                    android:textColor="@color/darkGray"
+                    android:textColorHint="#777777"
+                    android:textSize="14dp" />
+
+
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="کد وارد شده صحیح نیست!"
+                android:textColor="@color/Red"
+                android:textSize="10dp"
+                android:visibility="invisible" />
+
+            <TextView
+                android:id="@+id/dialog_counter"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textColor="@color/darkGray"
+                android:textSize="15dp"
+                android:visibility="gone" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:background="@drawable/bg_code_back"
+                android:orientation="vertical">
+
+                <EditText
+                    android:id="@+id/dialog_edt_txt_code"
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:background="@null"
+                    android:padding="8dp"
+                    android:hint=" کد فعالسازی"
+                    android:inputType="number"
+                    android:maxLength="11"
+                    android:textColor="@color/darkGray"
+                    android:textColorHint="#777777"
+                    android:textSize="14dp" />
+
+
+            </LinearLayout>
+            <TextView
+                android:id="@+id/resendCode"
+                android:background="@drawable/bg_green_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="دریافت کد فعالسازی"
+                android:layout_marginTop="16dp"
+                android:textColor="@color/white"
+                android:textSize="10dp"
+                android:padding="8dp"
+                android:visibility="visible" />
+
+            <TextView
+                android:id="@+id/dialog_counter1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textColor="@color/darkGray"
+                android:textSize="15dp"
+                android:visibility="gone" />
+            <TextView
+                android:id="@+id/dialog_txt1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="کد وارد شده صحیح نیست!"
+                android:layout_margin="8dp"
+                android:textColor="@color/Red"
+                android:textSize="10dp"
+                android:visibility="invisible" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:gravity="left|center_vertical"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/register"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:paddingBottom="10dp"
+                android:paddingLeft="15dp"
+                android:paddingRight="15dp"
+                android:paddingTop="10dp"
+                android:text="ادامه"
+                android:textColor="@color/darkGray" />
+
+            <TextView
+                android:id="@+id/cancel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingBottom="10dp"
+                android:paddingLeft="15dp"
+                android:paddingRight="15dp"
+                android:paddingTop="10dp"
+                android:text="انصراف"
+                android:textColor="#777777" />
+        </LinearLayout>
+
+    </LinearLayout>
+</LinearLayout>

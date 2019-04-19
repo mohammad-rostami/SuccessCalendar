@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ir.co.ahs.app.mob.success.test">
+
+    <uses-sdk android:minSdkVersion="16" android:targetSdkVersion="25" />
+
+    <application>
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+    <instrumentation android:name="android.support.test.runner.AndroidJUnitRunner"
+                     android:targetPackage="ir.co.ahs.app.mob.success"
+                     android:handleProfiling="false"
+                     android:functionalTest="false"
+                     android:label="Tests for ir.co.ahs.app.mob.success"/>
+</manifest>

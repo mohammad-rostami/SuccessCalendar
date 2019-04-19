@@ -1,0 +1,1306 @@
+[
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_official_event.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\item_official_event.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_news.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\fragment_news.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_update.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\dialog_update.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\a85d30a52d437c898d6dca3469f85d7b2a08f650\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_message_add.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\activity_message_add.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_add_product.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\dialog_add_product.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_test.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\item_test.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\evp_include_controls.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\e47b8ea601245db341573bb0ee1da9790629d09b\\output\\res\\layout\\evp_include_controls.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_story.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\item_story.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ms__list_item.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\b0007b664b5ed9d680bcdff5341b80342cc705c8\\output\\res\\layout\\ms__list_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\payment_final_result_test.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\f747a0dd8dddc64d4e4b2ea37776db48664280f2\\output\\res\\layout\\payment_final_result_test.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_end.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\fragment_end.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mdtp_time_picker_dialog_v2.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\9e1083d338e52b3ad470208c6942a887e72c6529\\output\\res\\layout\\mdtp_time_picker_dialog_v2.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\a85d30a52d437c898d6dca3469f85d7b2a08f650\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\522c0ba5e04e50224c2520622a4fff30e679ab15\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\ef4d6dc003a5958c03b5d83b339e49f205950fbf\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\522c0ba5e04e50224c2520622a4fff30e679ab15\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_view.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\notification_view.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\522c0ba5e04e50224c2520622a4fff30e679ab15\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_order_code.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\dialog_order_code.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_calendar.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\activity_calendar.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\a85d30a52d437c898d6dca3469f85d7b2a08f650\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_event.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\dialog_event.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test_item.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\activity_test_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bottom_navigation.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\bottom_navigation.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_verify.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\dialog_verify.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\522c0ba5e04e50224c2520622a4fff30e679ab15\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bottom_sheet.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\bottom_sheet.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_day.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\persiancalendar\\build\\intermediates\\bundles\\default\\res\\layout\\item_day.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_edit_data.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\dialog_edit_data.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mdtp_time_picker_dialog.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\9e1083d338e52b3ad470208c6942a887e72c6529\\output\\res\\layout\\mdtp_time_picker_dialog.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dropdown_item.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\7df09779f32203059b5fcf6a6fbb82753e0f4f44\\output\\res\\layout\\dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_item.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\message_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\browser_actions_context_menu_row.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\15a59e2e145928ea53137da92a2785fe57a7dc5a\\output\\res\\layout\\browser_actions_context_menu_row.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_news.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\item_news.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\522c0ba5e04e50224c2520622a4fff30e679ab15\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\evp_include_progress.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\e47b8ea601245db341573bb0ee1da9790629d09b\\output\\res\\layout\\evp_include_progress.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\payment_view.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\f747a0dd8dddc64d4e4b2ea37776db48664280f2\\output\\res\\layout\\payment_view.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\percent.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\percent.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_confirm.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\dialog_confirm.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\522c0ba5e04e50224c2520622a4fff30e679ab15\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_verify.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\dialog_verify.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_story.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\item_story.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mdtp_year_label_text_view.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\9e1083d338e52b3ad470208c6942a887e72c6529\\output\\res\\layout\\mdtp_year_label_text_view.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar_inner_pull.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\toolbar_inner_pull.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar_target.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\toolbar_target.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\ef4d6dc003a5958c03b5d83b339e49f205950fbf\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mdtp_time_header_label.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\9e1083d338e52b3ad470208c6942a887e72c6529\\output\\res\\layout\\mdtp_time_header_label.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\credit_item.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\credit_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\a85d30a52d437c898d6dca3469f85d7b2a08f650\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_target.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\activity_target.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mdtp_date_time_picker_dialog.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\9e1083d338e52b3ad470208c6942a887e72c6529\\output\\res\\layout\\mdtp_date_time_picker_dialog.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_credit.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\activity_credit.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about_item.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\about_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\number_picker_with_selector_wheel.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\1839ebb9bc3819957de26f70384e03c53be06172\\output\\res\\layout\\number_picker_with_selector_wheel.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_news.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\item_news.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_store_menu.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\item_store_menu.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\522c0ba5e04e50224c2520622a4fff30e679ab15\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\522c0ba5e04e50224c2520622a4fff30e679ab15\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_calendar.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\persiancalendar\\build\\intermediates\\bundles\\default\\res\\layout\\fragment_calendar.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_learn_mini.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\item_learn_mini.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar_inner_pages.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\toolbar_inner_pages.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_order_code.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\dialog_order_code.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_view.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\notification_view.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_story_mini.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\item_story_mini.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar_target.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\toolbar_target.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\522c0ba5e04e50224c2520622a4fff30e679ab15\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mdtp_time_picker_dialog_v2.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\9e1083d338e52b3ad470208c6942a887e72c6529\\output\\res\\layout\\mdtp_time_picker_dialog_v2.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\a85d30a52d437c898d6dca3469f85d7b2a08f650\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_store.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\item_store.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\522c0ba5e04e50224c2520622a4fff30e679ab15\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\ef4d6dc003a5958c03b5d83b339e49f205950fbf\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_credit_code.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\dialog_credit_code.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pull_item.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\pull_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_event_update.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\dialog_event_update.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_official_event.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\item_official_event.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_navigation.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\fragment_navigation.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar_message.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\toolbar_message.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\ef4d6dc003a5958c03b5d83b339e49f205950fbf\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\keyboard.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\f747a0dd8dddc64d4e4b2ea37776db48664280f2\\output\\res\\layout\\keyboard.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_day.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\persiancalendar\\build\\intermediates\\bundles\\default\\res\\layout\\item_day.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_alarm.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\activity_alarm.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_news.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\fragment_news.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_order.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\activity_order.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_edit_data.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\dialog_edit_data.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mdtp_date_picker_view_animator_v2.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\9e1083d338e52b3ad470208c6942a887e72c6529\\output\\res\\layout\\mdtp_date_picker_view_animator_v2.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\ef4d6dc003a5958c03b5d83b339e49f205950fbf\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\522c0ba5e04e50224c2520622a4fff30e679ab15\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_end_edit.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\dialog_end_edit.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_warning.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\dialog_warning.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\ef4d6dc003a5958c03b5d83b339e49f205950fbf\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_add_product.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\dialog_add_product.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_local_event.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\item_local_event.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\payment_final_result.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\f747a0dd8dddc64d4e4b2ea37776db48664280f2\\output\\res\\layout\\payment_final_result.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\evp_include_progress.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\e47b8ea601245db341573bb0ee1da9790629d09b\\output\\res\\layout\\evp_include_progress.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_month.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\persiancalendar\\build\\intermediates\\bundles\\default\\res\\layout\\fragment_month.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\a85d30a52d437c898d6dca3469f85d7b2a08f650\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_confirm2.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\dialog_confirm2.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_success_message.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\activity_success_message.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\522c0ba5e04e50224c2520622a4fff30e679ab15\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\522c0ba5e04e50224c2520622a4fff30e679ab15\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test_item.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\activity_test_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_week_messages.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\activity_week_messages.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\ef4d6dc003a5958c03b5d83b339e49f205950fbf\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mdtp_time_title_view_v2.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\9e1083d338e52b3ad470208c6942a887e72c6529\\output\\res\\layout\\mdtp_time_title_view_v2.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_poll.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\dialog_poll.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_credit_code.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\dialog_credit_code.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mdtp_date_picker_header_view.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\9e1083d338e52b3ad470208c6942a887e72c6529\\output\\res\\layout\\mdtp_date_picker_header_view.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ms__list_item.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\b0007b664b5ed9d680bcdff5341b80342cc705c8\\output\\res\\layout\\ms__list_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_week_story.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\fragment_week_story.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\order_item.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\order_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\a85d30a52d437c898d6dca3469f85d7b2a08f650\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\payment_final_result_test.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\7df09779f32203059b5fcf6a6fbb82753e0f4f44\\output\\res\\layout\\payment_final_result_test.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_list_final_response.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\f747a0dd8dddc64d4e4b2ea37776db48664280f2\\output\\res\\layout\\item_list_final_response.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_store_menu.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\item_store_menu.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\stepper.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\stepper.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_story_mini.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\item_story_mini.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\percent.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\percent.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_fal.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\item_fal.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bottom_sheet.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\bottom_sheet.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mdtp_year_label_text_view.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\9e1083d338e52b3ad470208c6942a887e72c6529\\output\\res\\layout\\mdtp_year_label_text_view.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_store.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\fragment_store.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mdtp_date_picker_dialog.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\9e1083d338e52b3ad470208c6942a887e72c6529\\output\\res\\layout\\mdtp_date_picker_dialog.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mdtp_date_picker_view_animator.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\9e1083d338e52b3ad470208c6942a887e72c6529\\output\\res\\layout\\mdtp_date_picker_view_animator.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\522c0ba5e04e50224c2520622a4fff30e679ab15\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\a85d30a52d437c898d6dca3469f85d7b2a08f650\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about_item.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\about_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_week_story.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\fragment_week_story.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mdtp_date_picker_selected_date.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\9e1083d338e52b3ad470208c6942a887e72c6529\\output\\res\\layout\\mdtp_date_picker_selected_date.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_fal.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\fragment_fal.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_end.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\item_end.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_phone.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\dialog_phone.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\a85d30a52d437c898d6dca3469f85d7b2a08f650\\output\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mdtp_date_picker_view_animator_v2.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\9e1083d338e52b3ad470208c6942a887e72c6529\\output\\res\\layout\\mdtp_date_picker_view_animator_v2.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\widget1.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\widget1.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\522c0ba5e04e50224c2520622a4fff30e679ab15\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\browser_actions_context_menu_page.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\15a59e2e145928ea53137da92a2785fe57a7dc5a\\output\\res\\layout\\browser_actions_context_menu_page.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\keyboard.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\7df09779f32203059b5fcf6a6fbb82753e0f4f44\\output\\res\\layout\\keyboard.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar_inner_pull.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\toolbar_inner_pull.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\activity_video.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\activity_video.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\522c0ba5e04e50224c2520622a4fff30e679ab15\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\a85d30a52d437c898d6dca3469f85d7b2a08f650\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_poll.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\dialog_poll.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_local_event.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\item_local_event.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\ef4d6dc003a5958c03b5d83b339e49f205950fbf\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_date_pick.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\dialog_date_pick.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_profile.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\ef4d6dc003a5958c03b5d83b339e49f205950fbf\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mdtp_date_picker_selected_date_v2.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\9e1083d338e52b3ad470208c6942a887e72c6529\\output\\res\\layout\\mdtp_date_picker_selected_date_v2.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar_credit.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\toolbar_credit.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mdtp_done_button.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\9e1083d338e52b3ad470208c6942a887e72c6529\\output\\res\\layout\\mdtp_done_button.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\credit_item.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\credit_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_event_update.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\dialog_event_update.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_message_list.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\activity_message_list.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar_main.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\toolbar_main.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_week_messages.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\activity_week_messages.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar_inner_pages.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\toolbar_inner_pages.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mdtp_time_header_label.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\9e1083d338e52b3ad470208c6942a887e72c6529\\output\\res\\layout\\mdtp_time_header_label.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_message_add.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\activity_message_add.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mdtp_date_picker_dialog_v2.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\9e1083d338e52b3ad470208c6942a887e72c6529\\output\\res\\layout\\mdtp_date_picker_dialog_v2.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_fal.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\item_fal.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mdtp_date_time_picker_dialog.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\9e1083d338e52b3ad470208c6942a887e72c6529\\output\\res\\layout\\mdtp_date_time_picker_dialog.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_event.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\dialog_event.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mdtp_date_picker_header_view_v2.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\9e1083d338e52b3ad470208c6942a887e72c6529\\output\\res\\layout\\mdtp_date_picker_header_view_v2.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\onesignal_bgimage_notif_layout.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\7d1c976abb531a77bdafdeeee36de0f45b0b8b40\\output\\res\\layout\\onesignal_bgimage_notif_layout.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_order.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\activity_order.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\522c0ba5e04e50224c2520622a4fff30e679ab15\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_poll.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\activity_poll.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar_credit.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\toolbar_credit.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_end.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\fragment_end.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_tooltip.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\abc_tooltip.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\a85d30a52d437c898d6dca3469f85d7b2a08f650\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\onesignal_bgimage_notif_layout.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\7d1c976abb531a77bdafdeeee36de0f45b0b8b40\\output\\res\\layout\\onesignal_bgimage_notif_layout.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mdtp_time_picker_dialog.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\9e1083d338e52b3ad470208c6942a887e72c6529\\output\\res\\layout\\mdtp_time_picker_dialog.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_calendar.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\persiancalendar\\build\\intermediates\\bundles\\default\\res\\layout\\fragment_calendar.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mdtp_date_picker_dialog_v2.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\9e1083d338e52b3ad470208c6942a887e72c6529\\output\\res\\layout\\mdtp_date_picker_dialog_v2.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_end.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\dialog_end.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_navigation.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\fragment_navigation.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\522c0ba5e04e50224c2520622a4fff30e679ab15\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mdtp_time_title_view.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\9e1083d338e52b3ad470208c6942a887e72c6529\\output\\res\\layout\\mdtp_time_title_view.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\number_picker_with_selector_wheel.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\1839ebb9bc3819957de26f70384e03c53be06172\\output\\res\\layout\\number_picker_with_selector_wheel.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar_main.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\toolbar_main.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\stepper.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\stepper.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\a85d30a52d437c898d6dca3469f85d7b2a08f650\\output\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\order_item.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\order_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\payment_final_result.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\7df09779f32203059b5fcf6a6fbb82753e0f4f44\\output\\res\\layout\\payment_final_result.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\522c0ba5e04e50224c2520622a4fff30e679ab15\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_target.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\item_target.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\browser_actions_context_menu_row.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\15a59e2e145928ea53137da92a2785fe57a7dc5a\\output\\res\\layout\\browser_actions_context_menu_row.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\widget1.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\widget1.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\a85d30a52d437c898d6dca3469f85d7b2a08f650\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_item.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\message_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar_message.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\toolbar_message.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\a85d30a52d437c898d6dca3469f85d7b2a08f650\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_poll.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\activity_poll.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bottom_navigation.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\bottom_navigation.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\522c0ba5e04e50224c2520622a4fff30e679ab15\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\522c0ba5e04e50224c2520622a4fff30e679ab15\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\conversation_item.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\conversation_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\ef4d6dc003a5958c03b5d83b339e49f205950fbf\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_month.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\persiancalendar\\build\\intermediates\\bundles\\default\\res\\layout\\fragment_month.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_end.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\item_end.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_target.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\item_target.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\522c0ba5e04e50224c2520622a4fff30e679ab15\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_warning.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\dialog_warning.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mdtp_date_picker_view_animator.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\9e1083d338e52b3ad470208c6942a887e72c6529\\output\\res\\layout\\mdtp_date_picker_view_animator.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\browser_actions_context_menu_page.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\15a59e2e145928ea53137da92a2785fe57a7dc5a\\output\\res\\layout\\browser_actions_context_menu_page.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_list_final_response.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\7df09779f32203059b5fcf6a6fbb82753e0f4f44\\output\\res\\layout\\item_list_final_response.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_confirm2.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\dialog_confirm2.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_update.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\dialog_update.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_calendar.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\activity_calendar.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_end_edit.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\dialog_end_edit.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mdtp_time_title_view_v2.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\9e1083d338e52b3ad470208c6942a887e72c6529\\output\\res\\layout\\mdtp_time_title_view_v2.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\a85d30a52d437c898d6dca3469f85d7b2a08f650\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_credit.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\dialog_credit.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_credit.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\dialog_credit.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_profile.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mdtp_time_title_view.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\9e1083d338e52b3ad470208c6942a887e72c6529\\output\\res\\layout\\mdtp_time_title_view.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\522c0ba5e04e50224c2520622a4fff30e679ab15\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\a85d30a52d437c898d6dca3469f85d7b2a08f650\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dropdown_item.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\f747a0dd8dddc64d4e4b2ea37776db48664280f2\\output\\res\\layout\\dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\a85d30a52d437c898d6dca3469f85d7b2a08f650\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_confirm.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\dialog_confirm.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\payment_view.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\7df09779f32203059b5fcf6a6fbb82753e0f4f44\\output\\res\\layout\\payment_view.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mdtp_date_picker_selected_date_v2.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\9e1083d338e52b3ad470208c6942a887e72c6529\\output\\res\\layout\\mdtp_date_picker_selected_date_v2.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_fal.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\fragment_fal.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\conversation_item.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\conversation_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\evp_include_controls.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\e47b8ea601245db341573bb0ee1da9790629d09b\\output\\res\\layout\\evp_include_controls.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_phone.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\dialog_phone.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_store.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\item_store.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_credit.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\activity_credit.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_tooltip.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\abc_tooltip.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\522c0ba5e04e50224c2520622a4fff30e679ab15\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_store.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\fragment_store.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mdtp_date_picker_selected_date.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\9e1083d338e52b3ad470208c6942a887e72c6529\\output\\res\\layout\\mdtp_date_picker_selected_date.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_success_message.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\activity_success_message.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mdtp_date_picker_header_view_v2.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\9e1083d338e52b3ad470208c6942a887e72c6529\\output\\res\\layout\\mdtp_date_picker_header_view_v2.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\522c0ba5e04e50224c2520622a4fff30e679ab15\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_date_pick.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\dialog_date_pick.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_test.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\item_test.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mdtp_date_picker_dialog.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\9e1083d338e52b3ad470208c6942a887e72c6529\\output\\res\\layout\\mdtp_date_picker_dialog.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mdtp_done_button.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\9e1083d338e52b3ad470208c6942a887e72c6529\\output\\res\\layout\\mdtp_done_button.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_learn_mini.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\item_learn_mini.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_calendar.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\persiancalendar\\build\\intermediates\\bundles\\default\\res\\layout\\view_calendar.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_alarm.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\activity_alarm.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pull_item.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\pull_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_end.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\dialog_end.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\522c0ba5e04e50224c2520622a4fff30e679ab15\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\d5dde50ace9092dbee5ac34da3a3282c8e175a7d\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_message_list.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\src\\main\\res\\layout\\activity_message_list.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\522c0ba5e04e50224c2520622a4fff30e679ab15\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_target.xml",
+        "source": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\src\\main\\res\\layout\\activity_target.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_calendar.xml",
+        "source": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\persiancalendar\\build\\intermediates\\bundles\\default\\res\\layout\\view_calendar.xml"
+    },
+    {
+        "merged": "D:\\Projects\\persian-calendar-view-master 2\\persian-calendar-view-master 2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\a85d30a52d437c898d6dca3469f85d7b2a08f650\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mdtp_date_picker_header_view.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\9e1083d338e52b3ad470208c6942a887e72c6529\\output\\res\\layout\\mdtp_date_picker_header_view.xml"
+    },
+    {
+        "merged": "D:\\Projects\\SuccessCalendar\\SuccessCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\522c0ba5e04e50224c2520622a4fff30e679ab15\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    }
+]
